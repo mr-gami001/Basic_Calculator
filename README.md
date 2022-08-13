@@ -24,4 +24,4 @@ This is basic calculator app.
 <br/>
 <h1>Clone Repository</h1>
 
-> git clone https://github.com/mr-gami001/Basic_Calculator.git
+>  <a href = "git clone https://github.com/mr-gami001/Basic_Calculator.git">
