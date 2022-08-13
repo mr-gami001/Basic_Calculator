@@ -22,7 +22,7 @@ This is basic calculator app.
 
 <br/>
 <br/>
-# Clone Repository
+*Clone Repository*
 
 <br/>
-> git clone 
+> git clone https://github.com/mr-gami001/Basic_Calculator.git
