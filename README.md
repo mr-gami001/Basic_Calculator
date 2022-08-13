@@ -20,3 +20,9 @@ This is the Sanpshot of the working model of the app.
 
 ![image](https://user-images.githubusercontent.com/85818705/184479694-022b4798-b3dc-4233-9d67-667de8c9c0ac.png)
 
+<br/>
+<br/>
+# Clone Repository
+
+<br/>
+git clone 
