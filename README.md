@@ -2,9 +2,9 @@
 This is basic calculator app.
 <br/>
 <br/>
-In which I use only basic methods.
+> In which I use only basic methods.
 <br/>
-I don't use any other API which is download from online.
+> I don't use any other API which is download from online.
 <br/>
 <br/>
 <br/>
@@ -14,7 +14,7 @@ I don't use any other API which is download from online.
 <br/>
 <br/>
 
-This is the Sanpshot of the working model of the app.
+> This is the Sanpshot of the working model of the app.
 <br/>
 <br/>
 
@@ -25,4 +25,4 @@ This is the Sanpshot of the working model of the app.
 # Clone Repository
 
 <br/>
-git clone 
+> git clone 
