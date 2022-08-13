@@ -3,7 +3,7 @@ This is basic calculator app.
 <br/>
 <br/>
 > In which I use only basic methods.
-<br/>
+
 > I don't use any other API which is download from online.
 <br/>
 <br/>
